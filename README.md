@@ -1,4 +1,5 @@
-# Stopwatch
+# Stopwatch <img src="https://media-curse.cursecdn.com/attachments/231/56/4b2aa3b661c3ea1df158ea604259cc6f.png" width="48">
+
 
 ## Fortran code: Stopwatch class to measure computation times.
 
